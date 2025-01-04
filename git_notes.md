@@ -94,4 +94,5 @@ To get the current remote repos
 `git remote`
 
 To add a remote repo
-`git remote add <alias> <url>
+`git remote add <alias> <url>`
+
